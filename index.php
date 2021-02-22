@@ -1,6 +1,6 @@
 <?php
 
-$webhookurl = "https://discord.com/api/webhooks/786147495838351370/snGwt1048pifChvG_2QKgSU73NaA2jR_jPHJFN3tEYJgi-su0M1YNNsqdClleRMG4UAD"; // Paste your webhook between the quotes
+$webhookurl = "https://discord.com/api/webhooks/813500162609250384/Kkl4TY609p7rGfKLWtETYGnWdMGTl0vtwKUmCOHuP8auAAA5QwEj19O24Y8RkEJpzx2X"; // Paste your webhook between the quotes
 
 
 $TheirDate = date('d/m/Y');
